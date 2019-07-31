@@ -24,9 +24,6 @@ spring:
     timeout: 0
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://106.14.3.186:3306/expand_platform?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8
-    username: root
-    password: ypwl2016.z
     filters: stat,wall
     druid:
       initial-size: 50

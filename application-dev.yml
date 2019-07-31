@@ -13,7 +13,7 @@ spring:
     proxy-target-class: true
     auto: true
   rabbitmq:
-    host: paascloud-mq-rabbit
+    host: 192.168.0.109
     port: 5672
     username: root
     password: yipeng2017root
